@@ -4,9 +4,16 @@
 # Choosing Color
 - Check [Here](/Preferences.tps)
 
-## Loaing the custom color pallete archives
+## Loading the custom color pallete archives
     - Navigate to to this [directory](/Tableau-Repository-Location.jpg)
     - Paste the custom color pallete fiel here to replace the old palette
+    
+# Places to get Datasets
+- Maven Analytics Playground
+- World.Data
+- Kaggle
+- MakeOverMonday
+- Google Dataset
 
 # Check here on how to create a custom color palette of your choice for categorical variables
 - [Right Here](https://www.thedataschool.co.uk/emily-chen/tableau-tip-importing-custom-colour-palettes)
