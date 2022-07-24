@@ -15,6 +15,8 @@
 - MakeOverMonday
 - Google Dataset
 
+# What's Outlier
+- StatsLecture explained it [Here](https://www.youtube.com/watch?v=o2q-L3auqW8)
 # Check here on how to create a custom color palette of your choice for categorical variables
 - [Right Here](https://www.thedataschool.co.uk/emily-chen/tableau-tip-importing-custom-colour-palettes)
 
