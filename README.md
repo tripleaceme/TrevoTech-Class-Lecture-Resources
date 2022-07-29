@@ -1,6 +1,9 @@
 # TrevoTech Class Lecture Resources
  This repo is for my class with TrevoTech Student
 
+# The class Schedule
+Download the class Schedule [here]()
+
 # Choosing Color
 - Check [Here](/Preferences.tps)
 
