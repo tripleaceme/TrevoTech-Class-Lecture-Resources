@@ -8,8 +8,8 @@ Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Clas
 - Check [Here](/Preferences.tps)
 
 ## Loading the custom color pallete archives
-    - Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Tableau-Repository-Location.jpg)
-    - Paste the custom color palette field here to replace the old palette
+- Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Tableau-Repository-Location.jpg)
+- Paste the custom color palette field here to replace the old palette
     
 # Places to get Datasets
 - Maven Analytics Playground
