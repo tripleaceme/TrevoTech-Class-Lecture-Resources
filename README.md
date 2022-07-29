@@ -2,7 +2,7 @@
  This repo is for my class with TrevoTech Student
 
 # The class Schedule
-Download the class Schedule [here]()
+Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/TrevoTech%20Class%20Schedule.pdf)
 
 # Choosing Color
 - Check [Here](/Preferences.tps)
