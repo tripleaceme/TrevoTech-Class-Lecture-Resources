@@ -38,3 +38,6 @@ Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Clas
 # Capstone Project Dataset and Problem Statements
 - Resources 1 [Here](https://sonsofhierarchies.com/real-world-fake-data/)
 - Resources 2 [Here](https://sonsofhierarchies.com/real-world-fake-data-season-2/)
+
+
+ <p> <a href="#" target="blank"><img src="" alt="coffee shop" /></a> </p>

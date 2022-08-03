@@ -1,0 +1,4 @@
+pip install geopandas
+neighborhoods = gpd.read_file('./data/neighborhoods.shp')
+df1= pd.DataFrame(neighborhoods.iloc[:,:-1].values, columns = list(neighborhoods.columns.values)[:-1] )
+df1.to_csv("neighborhoods.csv")
