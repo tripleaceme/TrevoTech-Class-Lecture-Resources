@@ -1,7 +1,7 @@
 # Where to open a new coffee shop?
  You are helping a client who owns coffee shops in Colorado. The company's coffee shops serve high-quality and responsibly sourced coffee, pastries, and sandwiches. They operate three locations in Fort Collins and want to expand into Denver. Your client believes that the ideal location for a new store is close to affluent households, and the store appeals to the 20-35 year old demographic. Your team collected geographical and demographic information about Denver's neighborhoods to assist the search. They also collected data for Starbucks shops in Denver. Starbucks and the new coffee shops do not compete for the same clients; the team included their location as a reference.
  
- <p> <a href="#" target="blank"><img src="" alt="coffee shop" /></a> </p>
+ <p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/coffe.jpg" alt="coffee shop" /></a> </p>
 
 # Your challenge
 - Provide your client a list of neighborhoods in Denver where they should consider expanding. Include:
@@ -13,6 +13,7 @@
 You have assembled information from three different sources ([locations](https://github.com/chrismeller/), [neighborhoods](http://data.denvergov.org/), [demographics](https://www.census.gov/))
 
 # Data Dictionary
+ Click on the names to see the data
 ## [Starbucks locations in Denver, Colorado](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/Data/location.csv)
 - "StoreNumber" - Store Number as assigned by Starbucks
 - "Name" - Name identifier for the store
