@@ -18,6 +18,9 @@ Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Clas
 - MakeOverMonday
 - Google Dataset
 
+# Group Projects
+- Project 1 - [Where to open a new coffee shop?]()
+
 # What's Outlier
 - StatsLecture explained it [Here](https://www.youtube.com/watch?v=o2q-L3auqW8)
 # Check here on how to create a custom color palette of your choice for categorical variables
