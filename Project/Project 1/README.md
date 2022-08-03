@@ -1,7 +1,7 @@
 # Where to open a new coffee shop?
  You are helping a client who owns coffee shops in Colorado. The company's coffee shops serve high-quality and responsibly sourced coffee, pastries, and sandwiches. They operate three locations in Fort Collins and want to expand into Denver. Your client believes that the ideal location for a new store is close to affluent households, and the store appeals to the 20-35 year old demographic. Your team collected geographical and demographic information about Denver's neighborhoods to assist the search. They also collected data for Starbucks shops in Denver. Starbucks and the new coffee shops do not compete for the same clients; the team included their location as a reference.
  
-Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Tableau-Repository-Location.jpg)
+Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/online%20map%20in%20excel.png)
 
 
 # Your challenge
@@ -14,18 +14,18 @@ Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-L
 You have assembled information from three different sources ([locations](https://github.com/chrismeller/), [neighborhoods](http://data.denvergov.org/), [demographics](https://www.census.gov/))
 
 # Data Dictionary
-## [Starbucks locations in Denver, Colorado]()
+## [Starbucks locations in Denver, Colorado](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/Data/location.csv)
     - "StoreNumber" - Store Number as assigned by Starbucks
 	- "Name" - Name identifier for the store
 	- "PhoneNumber" - Phone number for the store
 	- "Street 1, 2, and 3" - Address for the store
 	- "PostalCode" - Zip code of the store
 	- "Longitude, Latitude" - Coordinates of the store
-## [Neighborhoods' geographical information]()
+## [Neighborhoods' geographical information](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/Data/neighborhoods.shp)
     - "NBHD_ID" - Neighborhood ID (matches the census information)
     - "NBHD_NAME" - Name of the statistical neighborhood
     - "Geometry" - Polygon that defines the neighborhood
-## [Demographic information]()
+## [Demographic information](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/Data/census.csv)
     - "NBHD_ID" - Neighborhood ID (matches the geographical information)
 	- "NBHD_NAME' - Nieghborhood name
 	- "POPULATION_2010' - Population in 2010
@@ -39,7 +39,7 @@ You have assembled information from three different sources ([locations](https:/
 - Download the excel .sph file loader [here](https://gisxl.com/Current)
 - Check how to install the loader [here](https://gisxl.com/HowTo/Before/InstallAddIn)
 
-Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Tableau-Repository-Location.jpg)
+Navigate to to this [directory](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%201/GIS%20map%20in%20excel.png)
 
 
 Starbucks locations were scrapped from the Starbucks store locator webpage by [Chris Meller](https://github.com/chrismeller/).

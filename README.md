@@ -19,7 +19,7 @@ Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Clas
 - Google Dataset
 
 # Group Projects
-- Project 1 - [Where to open a new coffee shop?]()
+- Project 1 - [Where to open a new coffee shop?](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/tree/main/Project/Project%201)
 
 # What's Outlier
 - StatsLecture explained it [Here](https://www.youtube.com/watch?v=o2q-L3auqW8)
