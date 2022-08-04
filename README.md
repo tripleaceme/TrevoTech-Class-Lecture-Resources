@@ -1,6 +1,8 @@
 # TrevoTech Class Lecture Resources
  This repo is for my class with TrevoTech Student
 
+<p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/trevotech.png" alt="TrevoTech Class" /></a> </p>
+
 # The class Schedule
 Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/TrevoTech%20Class%20Schedule.pdf)
 
@@ -45,4 +47,4 @@ Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Clas
 - Resources 2 [Here](https://sonsofhierarchies.com/real-world-fake-data-season-2/)
 
 
- <p> <a href="#" target="blank"><img src="" alt="coffee shop" /></a> </p>
+ 
