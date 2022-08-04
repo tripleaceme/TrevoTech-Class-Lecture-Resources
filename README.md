@@ -23,7 +23,7 @@ Download the class Schedule [here](https://github.com/tripleaceme/TrevoTech-Clas
 - Project 2 (Group) - [US Sales eCommerce Analysis](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/tree/main/Project/Project%202)
 - Project 3 (Personal) - [Whatsapp Messaging Analysis](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/tree/main/Project/Project%203)
 - Project 4 (Group) - [Doctor's Appontment Cancellation](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/tree/main/Project/Project%204)
-- Project 5 (Group) - [Free Choice Project 1]((https://sonsofhierarchies.com/real-world-fake-data/))
+- Project 5 (Group) - [Free Choice Project 1](https://sonsofhierarchies.com/real-world-fake-data/)
 - Project 6 (Personal) - [Free Choice Project 2](https://sonsofhierarchies.com/real-world-fake-data-season-2/)
 
 # What's Outlier
