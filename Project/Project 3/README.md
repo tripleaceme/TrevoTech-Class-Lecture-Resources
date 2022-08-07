@@ -18,10 +18,10 @@ Having completed this tutorial, I have gained amazing skills in extracting Whats
 
 ## Cleaning WhatsApp Chat
 
-- The lite weight cleaning script is [here](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%203/clean_data_scripts/light_whatsapp_cleaning.ipynb) 
+- The iPhone cleaning script is [here](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%203/clean_data_scripts/light_whatsapp_cleaning.ipynb) 
 ![](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%203/iphone.PNG)
 
-- Deep Level cleaning script is [here](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%203/clean_data_scripts/deep_level_whatsapp_cleaning.ipynb)
+- Android cleaning script is [here](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%203/clean_data_scripts/deep_level_whatsapp_cleaning.ipynb)
 ![](https://github.com/tripleaceme/TrevoTech-Class-Lecture-Resources/blob/main/Project/Project%203/android.PNG)
 
 We use the andorid cleaning script for this project and create multiple calculated fields in Tableau and the dashboards in Tableau can be found [here](#)
